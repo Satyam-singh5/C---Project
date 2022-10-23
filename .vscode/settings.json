@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "iostream": "cpp",
-        "binary_search": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "Disabled"
-}
